@@ -198,7 +198,7 @@ There are already a few ports of this tool to other languages:
 
 The lists below are auto generated and updated from time to time. Some of them might not be complete.
 
-*Last update: 2020/04/03*
+*Last update: 2020/04/04*
 
 ### List of detected operating systems:
 
@@ -210,7 +210,7 @@ AIX, Android, AmigaOS, Apple TV, Arch Linux, BackTrack, Bada, BeOS, BlackBerry O
 
 ### List of detected browser engines:
 
-WebKit, Blink, Trident, Text-based, Dillo, iCab, Elektra, Presto, Gecko, KHTML, NetFront, Edge, NetSurf, Servo
+WebKit, Blink, Trident, Text-based, Dillo, iCab, Elektra, Presto, Gecko, KHTML, NetFront, Edge, NetSurf, Servo, Goanna
 
 ### List of detected libraries:
 
